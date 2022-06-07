@@ -1,4 +1,4 @@
-# OLYMPICS_DATA_CAPSTONE_PROJECT
+# **OLYMPICS_DATA_CAPSTONE_PROJECT :**
 ![image](https://user-images.githubusercontent.com/98200001/171217757-e0880e7a-98f1-4988-91dd-11cf63715e96.png)
 
 #### Attributes information :-
@@ -12,7 +12,7 @@
 | **Sports** | **Categories of the all sports that are conducted (eg. Baseball, Cycling, Football and etc..,)**|
 | **Medals** | **Medals ( Gold_medal, Silver_medal and Bronze_medal )**| 
 
-#### PROBLEM STATEMENT :
+#### **PROBLEM STATEMENT :**
 * **Step 2 (Python and DS): Read the dataset in pandas and perform the steps as suggested.**
 
  1. **Please do the basic exploration of the data. Remember the dataset contains information from different years. So whatever steps you perform should make logical sense.**
