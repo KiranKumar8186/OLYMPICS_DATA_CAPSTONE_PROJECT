@@ -25,7 +25,7 @@
  8. **Please list the top 10 countries with the gold medal, then top10 countries with the silver medal, then bronze medal and the total medal.**
 
 
-#### **SAMPLE PIC OF THE DATA :**
+#### **SAMPLE INFORMATION ABOUT THE DATA :**
 ![image](https://user-images.githubusercontent.com/98200001/171218244-2d5072ad-1636-4965-8a57-f61166922cc0.png)
 
 #### **DATA TYPE OF ALL ATTRIBUTES THAT ARE IN THE DATASET :**
